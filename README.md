@@ -1,1 +1,1 @@
-# Cognifyz-Data-Analytics
+Data-Analytics-Project
