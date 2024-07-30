@@ -1,4 +1,4 @@
-Welcom to my Data Analytics Project..!!
+Welcome to my Data Analytics Project..!!
 For the Qurey Kindley Connect with-
 - https://www.linkedin.com/in/jai-bhardwaj-5355b5212/
   
